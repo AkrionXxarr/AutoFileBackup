@@ -1,0 +1,3 @@
+> Backup loop entry time: August 02, 2011, 07:27 PM
+> Last successful backup at: August 02, 2011, 07:27 PM
+  In folder: BukkitBackup1

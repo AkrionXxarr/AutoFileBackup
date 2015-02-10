@@ -1,0 +1,13 @@
+=== Configuration ===
+$Password=
+$Online Mode=on
+$Server Port Number=
+$Batch File Path=
+$Map Source Path=
+$Map Dest Path=
+$Backup Directory Name=
+$Backup Interval (in minutes)=
+$Unique Backups=
+
+=== No Modify ===
+$Last Backup Number=1

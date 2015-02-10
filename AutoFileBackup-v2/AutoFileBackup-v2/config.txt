@@ -1,0 +1,13 @@
+=== Configuration ===
+$Password=
+$Online Mode=on
+$Server Port Number=2468
+$Batch File Path=C:\
+$Map Source Path=C:\Users\Akrion Xxarr\Desktop\CraftBukkit
+$Map Dest Path=C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder
+$Backup Directory Name=BukkitBackup
+$Backup Interval (in minutes)=5
+$Unique Backups=3
+
+=== No Modify ===
+$Last Backup Number=2

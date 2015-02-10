@@ -1,0 +1,168 @@
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
+> Backup loop entry time: August 01, 2011, 04:44 PM
+> Last successful backup at: August 01, 2011, 04:44 PM
+  In folder: Backup3
+> Last successful backup at: August 01, 2011, 04:54 PM
+  In folder: Backup1
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: Backup2
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:04 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fakerestore"
+> Error Time: August 01, 2011, 05:04 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Error Log: boost::filesystem::directory_iterator::construct: The system cannot find the path specified: "C:\Users\Akrion Xxarr\Documents\AutoBackupTestFolder\fake"
+> Error Time: August 01, 2011, 05:05 PM
+> Last successful backup at: August 01, 2011, 05:05 PM
+  In folder: ForceBackup
+> Last successful backup at: August 01, 2011, 05:14 PM
+  In folder: Backup3
